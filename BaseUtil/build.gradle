@@ -46,5 +46,5 @@ task classesJar(type: Jar) {
 artifacts {
     archives classesJar
     archives javadocJar
-    archives sourcesJar
+
 }
